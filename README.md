@@ -1,5 +1,3 @@
-# Smart-Healthcare
-A modern healthcare directory platform to search and discover doctors and chemists with smart filters, live search, and clean UI.
 # 🩺 NIROG DISHA – Patna Healthcare Directory
 
 **NIROG DISHA** is a premium, production-quality healthcare directory designed for Patna, Bihar. It connects patients with **674+ verified doctors** and **200+ chemists** across urban and rural blocks — with a modern, mobile-first interface that rivals real healthcare platforms.
